@@ -2,7 +2,7 @@
 You can  access to the course slides [here]()
 
 # Open in Google colab
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IHCantabria/curso-intro-sklearn-python/blob/main/curso_intro_sklearn_python.ipynb)
 
 # Local installation
 
